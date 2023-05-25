@@ -13,7 +13,7 @@ import com.ColdPitch.domain.repository.LikeRepository;
 import com.ColdPitch.domain.repository.PostRepository;
 import com.ColdPitch.domain.repository.UserRepository;
 import com.ColdPitch.exception.CustomException;
-import com.ColdPitch.exception.ErrorCode;
+import com.ColdPitch.exception.handler.ErrorCode;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
